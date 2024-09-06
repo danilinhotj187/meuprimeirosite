@@ -1,0 +1,22 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+    color: blue;
+}
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: chocolate;
+}
+
+h3 {
+    color: gold;
+}
+h4 { color: blueviolet;}
+
+p {
+    line-height: normal;
+}
