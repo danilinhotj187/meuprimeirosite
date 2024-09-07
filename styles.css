@@ -6,10 +6,12 @@ body {
 
 h1 {
     color: brown;
+    text-align: center;
 }
 
 h2 {
     color: chocolate;
+    text-align: center;
 }
 
 h3 {
@@ -20,3 +22,4 @@ h4 { color: blueviolet;}
 p {
     line-height: normal;
 }
+
